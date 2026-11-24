@@ -2,6 +2,14 @@
 
 Computer Technology Engineering student at Tecnológico de Monterrey (Campus Monterrey), looking for a software engineering internship for Summer 2027.
 
+## What I'm building
+
+I sign my work as **Sanori Labs** → [sanorilabs.com](https://sanorilabs.com)
+
+- **Casora**: furniture marketplace in León, Mexico (web + iOS + Android). Founder; product and development. Next.js, Firebase, Mercado Pago. [casoramx.com](https://casoramx.com)
+- **Nola**: B2B advertising startup in Monterrey: brands sponsor free water cans. Co-founder. [nolamx.com](https://www.nolamx.com)
+- **Client websites**: redesigns and launches for local businesses ([case studies](https://sanorilabs.com))
+
 ## Education
 
 **B.S. in Computer Technology Engineering**, Tecnológico de Monterrey. Expected graduation: June 2029. GPA: 90/100.
